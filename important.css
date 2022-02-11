@@ -4,8 +4,8 @@
     font-family: sans-serif;
 }
 .ranim{
-    height: 100%;
-    width: 100%;
+    height: auto;
+    width: auto;
     background-position: center;
     background-size: cover;
     position: absolute;
