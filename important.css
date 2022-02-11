@@ -8,7 +8,7 @@
     height: 250px;;
     background-position: center;
     background-size: cover;
-    position: relative;
+    position: absolute;
 }
 .form-box{
     width: 380px;
