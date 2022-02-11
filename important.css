@@ -20,7 +20,7 @@
     overflow: hidden;
 }
 .button-box{
-    width: 150px;
+    width: 220px;
     margin:  35px auto;
     position: relative;
     box-shadow: 0 0 20px 9px #ff61241f;
@@ -47,7 +47,7 @@
 .input-group{
     top: 180px;
     position: absolute;
-    width: 150px;
+    width: 280px;
     transition: .9s;
 }
 .input-field{
