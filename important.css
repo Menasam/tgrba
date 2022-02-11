@@ -87,7 +87,7 @@ span{
 #register{
     right: 400px;
 }
-@media(max widht:900px){
+@media (max widht:900px){
     .right-siderbar{
         display:none;
     }
@@ -98,5 +98,6 @@ span{
         flex-warp:warp;
     }
     .ranim{
-        position: relative;
+        width: 380px;
+        height: 480px;;
 }
