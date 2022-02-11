@@ -4,11 +4,11 @@
     font-family: sans-serif;
 }
 .ranim{
-    height: 100%;
-    width: 100%;
+    width: 380px;
+    height: 480px;;
     background-position: center;
     background-size: cover;
-    position: absolute;
+    position: relative;
 }
 .form-box{
     width: 380px;
@@ -86,18 +86,4 @@ span{
 }
 #register{
     right: 400px;
-}
-@media (max-widht:900px){
-    .right-siderbar{
-        display:none;
-    }
-    .left-siderbar{
-        display:none;
-    }
-    nav{
-        flex-warp:warp;
-    }
-    .ranim{
-        width: 380px;
-        height: 480px;;
 }
