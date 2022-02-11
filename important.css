@@ -11,8 +11,8 @@
     position: absolute;
 }
 .form-box{
-    width: 150px;
-    height: 150px;
+    width: 380px;
+    height: 480px;
     position: relative;
     margin: 6% auto;
     background: #fff;
@@ -85,5 +85,5 @@ span{
     left: 50px;
 }
 #register{
-    right: 150px;
+    right: 400px;
 }
