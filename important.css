@@ -14,7 +14,7 @@
     width: 380px;
     height: 480px;
     position: relative;
-    margin: 0;
+    margin: 6% auto;
     background: #fff;
     padding: 5px;
     overflow: hidden;
@@ -97,6 +97,6 @@ span{
     nav{
         flex-warp:warp;
     }
-    .form-box{
-        margin: 0;
+    .ranim{
+        position: relative;
 }
